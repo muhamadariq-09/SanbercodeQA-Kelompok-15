@@ -2,6 +2,7 @@
 Repository penyimpanan untuk final project Quality Assurance Batch 42
 
 Website Testing : <https://opensource-demo.orangehrmlive.com/>
+
 Jenis Testing : Manual dan Automation Testing (Selenium Python)
 
 # Anggota Kelompok :
