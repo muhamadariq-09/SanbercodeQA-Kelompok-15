@@ -13,7 +13,6 @@ Website Testing : <https://opensource-demo.orangehrmlive.com/>
 
 
 # Link Pengerjaan :
-Kumpulan link pengerjaan untuk final project Quality Assurance Sanbercode Batch 42
 
 Google Drive : <https://drive.google.com/drive/folders/1QkmfDAVIonwMF4Z5gv40kNSwFJHbqazY?usp=share_link>
 
