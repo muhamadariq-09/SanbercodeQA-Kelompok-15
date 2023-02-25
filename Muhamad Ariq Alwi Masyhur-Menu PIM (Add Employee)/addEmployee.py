@@ -27,25 +27,25 @@ class TestAdd(unittest.TestCase):
 
         #steps
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div[2]/input").send_keys("Muhamad") # isi first name
-        time.sleep(3)   
+        time.sleep(1)   
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[2]/div[2]/input").send_keys("Nur") # isi middle name
-        time.sleep(3)     
+        time.sleep(1)     
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[3]/div[2]/input").send_keys("Ramadhan") # isi last name
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span").click()
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input").send_keys("muhamadnur123") # isi username
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[1]/div/div[2]/input").send_keys("Nurganteng123@") # isi password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[2]/div/div[2]/input").send_keys("Nurganteng123@") # isi confirm password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]").click()
         time.sleep(3)
@@ -66,13 +66,13 @@ class TestAdd(unittest.TestCase):
 
         #steps
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div[2]/input").send_keys("Muhamad") # isi first name
-        time.sleep(3)   
+        time.sleep(1)   
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[2]/div[2]/input").send_keys("Ariq Alwi") # isi middle name
-        time.sleep(3)     
+        time.sleep(1)     
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[3]/div[2]/input").send_keys("Masyhur") # isi last name
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]").click()
         time.sleep(3)
@@ -94,22 +94,22 @@ class TestAdd(unittest.TestCase):
 
         #steps
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div[2]/input").send_keys("Ikhsan") # isi first name
-        time.sleep(3)   
+        time.sleep(1)   
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[3]/div[2]/input").send_keys("Ramaditya") # isi last name
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span").click()
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input").send_keys("ihsanaja123") # isi username
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[1]/div/div[2]/input").send_keys("Ihsanganteng123_") # isi password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[2]/div/div[2]/input").send_keys("Ihsanganteng123_") # isi confirm password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]").click()
         time.sleep(3)
@@ -131,25 +131,25 @@ class TestAdd(unittest.TestCase):
 
         #steps
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div[2]/input").send_keys("") # isi first name
-        time.sleep(3)   
+        time.sleep(1)   
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[2]/div[2]/input").send_keys("") # isi middle name
-        time.sleep(3)     
+        time.sleep(1)     
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[3]/div[2]/input").send_keys("") # isi last name
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span").click()
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input").send_keys("") # isi username
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[1]/div/div[2]/input").send_keys("") # isi password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[2]/div/div[2]/input").send_keys("") # isi confirm password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]").click()
         time.sleep(3)
@@ -171,13 +171,13 @@ class TestAdd(unittest.TestCase):
 
         #steps
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div[2]/input").send_keys("Bambang") # isi first name
-        time.sleep(3)   
+        time.sleep(1)   
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[2]/div[2]/input").send_keys("") # isi middle name
-        time.sleep(3)     
+        time.sleep(1)     
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[3]/div[2]/input").send_keys("") # isi last name
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]").click()
         time.sleep(3)
@@ -199,25 +199,25 @@ class TestAdd(unittest.TestCase):
 
         #steps
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div[2]/input").send_keys("Armand") # isi first name
-        time.sleep(3)   
+        time.sleep(1)   
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[2]/div[2]/input").send_keys("Riyan") # isi middle name
-        time.sleep(3)     
+        time.sleep(1)     
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[1]/div[1]/div/div/div[2]/div[3]/div[2]/input").send_keys("Maulana") # isi last name
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[2]/div/label/span").click()
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[3]/div/div[1]/div/div[2]/input").send_keys("armandmaulana04") # isi username
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[1]/div/div[2]/input").send_keys("armandmau00") # isi password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH, "/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[1]/div[2]/div[4]/div/div[2]/div/div[2]/input").send_keys("armandmau00") # isi confirm password
-        time.sleep(3)
+        time.sleep(1)
 
         driver.find_element(By.XPATH,"/html/body/div/div[1]/div[2]/div[2]/div/div/form/div[2]/button[2]").click()
         time.sleep(3)
